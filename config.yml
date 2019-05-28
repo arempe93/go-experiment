@@ -1,0 +1,4 @@
+port: 7000
+
+database:
+  host: 127.0.0.1
